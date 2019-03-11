@@ -1,10 +1,6 @@
 # Virux
 Games AI Task 4: Cooperative Game
 
-# Short description:
-
-
-
 # Controls:
 
 Mouse point and click.
